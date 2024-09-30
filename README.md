@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fznshousa
+- 👀 I’m interested in Front End Developer
+- 🌱 I’m currently learning JavaScript
+- 📫 See my playground account : github.com/mr-samur4i
