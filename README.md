@@ -1,5 +1,5 @@
 <h5 align="left"></h5>
-- 👋 Yo! My second account: Mr-Samur4i<br>
+- 👋 Yo! My second account is Mr-Samur4i<br>
 - 👀 I’m interested in Front End Developer<br>
 - 🌱 I’m currently learning JavaScript
 
