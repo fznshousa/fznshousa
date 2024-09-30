@@ -1,7 +1,7 @@
 <h5 align="left"></h5>
-- 👋 Yo! FznShousa is the main account of Mr-Samur4i.
-- 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning JavaScript
+- 👋 Yo! FznShousa is the main account of Mr-Samur4i.<br>
+- 👀 I’m interested in Front End Developer<br>
+- 🌱 I’m currently learning JavaScript<br>
 - 📫 See my playground account : github.com/mr-samur4i
 
 ###
